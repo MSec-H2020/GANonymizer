@@ -1,6 +1,6 @@
 # GanonymizerV3 App
 
-## OVERVIEW
+## Overview
 Smart devices including a camera module are used currently by people all over the world, for example, Smartphones, Go Pro, and so on.  
 People can take a photo easily in all situations, and they can upload it to the internet too by using Social Networking Services. (Facebook, Instagram, Twitter, etc.)  
 Like that, this culture is used for a city to improve the quality of life for everyone there.   
